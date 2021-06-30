@@ -1,0 +1,2 @@
+# Custom-Activation-Function-and-learnable-parameters
+The activation function is an essential building block for every neural network. We can choose from a huge list of popular activation functions from popular Deep Learning frameworks, like ReLU, Sigmoid, Tanh, and many others.   However, to create a state of the art model, customized particularly for your task, you may need to use a custom activation function, which is absent in Deep Learning framework you are using. Activation functions can be roughly classified into the following groups by complexity: 
